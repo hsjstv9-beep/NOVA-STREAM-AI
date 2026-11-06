@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOVA STREAM AI</string>
+    <string name="app_tagline">Next-Gen IPTV &amp; Stream Intelligence Suite</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="playlists">Playlists</string>
+    <string name="player">Player</string>
+    <string name="diagnostics">Diagnostics</string>
+    <string name="analytics">Analytics</string>
+    <string name="profiles">Profiles</string>
+    <string name="settings">Settings</string>
+</resources>

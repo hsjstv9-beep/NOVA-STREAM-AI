@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#0D0F14"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="#161922"
+        android:pathData="M0,0h320v90h-320z" />
+    <!-- Gradient Glow Ring -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M160,40 C132.4,40 110,62.4 110,90 C110,117.6 132.4,140 160,140 C187.6,140 210,117.6 210,90 C210,62.4 187.6,40 160,40 Z M160,130 C137.9,130 120,112.1 120,90 C120,67.9 137.9,50 160,50 C182.1,50 200,67.9 200,90 C200,112.1 182.1,130 160,130 Z" />
+    <!-- Play Triangle -->
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M148,68 L182,90 L148,112 Z" />
+</vector>
